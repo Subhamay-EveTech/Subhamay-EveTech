@@ -5,7 +5,7 @@ Full Stack & Back End Developer | Expert in C, C++, Javascript, Node.js, Express
 
 <img src="https://github-readme-stats.vercel.app/api?username=Subhamay-EveTech&theme=midnight-purple&show_icons=true"> 
 <div>
-<a href="#"><img alt="STREIN's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Subhamay-EveTech&custom_title=STREIN's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a> 
+<a href="#"><img alt="STREIN's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Subhamay-EveTech&custom_title=Subhamay-EveTech's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a> 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhamay-EveTech&label=Profile%20views&color=0e75b6&style=flat" alt="Subhamay-EveTech" /> </p>
 
